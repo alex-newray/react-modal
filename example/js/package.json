@@ -1,0 +1,24 @@
+{
+  "name": "base_redux",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "webpack": "./node_modules/.bin/webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^0.82.5"
+  },
+  "description": "",
+  "devDependencies": {
+    "babel-loader": "^8.0.4",
+    "webpack": "^4.21.0"
+  }
+}
